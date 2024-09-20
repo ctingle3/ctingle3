@@ -2223,7 +2223,7 @@
             <mxRectangle width="210" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xTrYYN68RDAiUMq0tByx-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERmany;startFill=0;endArrow=ERmany;endFill=0;" edge="1" parent="1" source="xTrYYN68RDAiUMq0tByx-45" target="xTrYYN68RDAiUMq0tByx-27">
+        <mxCell id="xTrYYN68RDAiUMq0tByx-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERmandOne;startFill=0;endArrow=ERmandOne;endFill=0;" edge="1" parent="1" source="xTrYYN68RDAiUMq0tByx-45" target="xTrYYN68RDAiUMq0tByx-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xTrYYN68RDAiUMq0tByx-45" value="CATEGORY" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
@@ -2317,7 +2317,7 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xTrYYN68RDAiUMq0tByx-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;" edge="1" parent="1" source="xTrYYN68RDAiUMq0tByx-65" target="xTrYYN68RDAiUMq0tByx-30">
+        <mxCell id="xTrYYN68RDAiUMq0tByx-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERone;startFill=0;endArrow=ERzeroToMany;endFill=0;" edge="1" parent="1" source="xTrYYN68RDAiUMq0tByx-65" target="xTrYYN68RDAiUMq0tByx-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xTrYYN68RDAiUMq0tByx-204" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERzeroToMany;startFill=0;endArrow=ERone;endFill=0;" edge="1" parent="1" source="xTrYYN68RDAiUMq0tByx-65" target="xTrYYN68RDAiUMq0tByx-104">
@@ -2393,10 +2393,10 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xTrYYN68RDAiUMq0tByx-206" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERone;startFill=0;endArrow=ERone;endFill=0;" edge="1" parent="1" source="xTrYYN68RDAiUMq0tByx-81" target="xTrYYN68RDAiUMq0tByx-42">
+        <mxCell id="xTrYYN68RDAiUMq0tByx-206" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERmany;startFill=0;endArrow=ERone;endFill=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="xTrYYN68RDAiUMq0tByx-81" target="xTrYYN68RDAiUMq0tByx-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xTrYYN68RDAiUMq0tByx-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERone;startFill=0;endArrow=ERone;endFill=0;" edge="1" parent="1" source="xTrYYN68RDAiUMq0tByx-81" target="xTrYYN68RDAiUMq0tByx-75">
+        <mxCell id="xTrYYN68RDAiUMq0tByx-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERmany;startFill=0;endArrow=ERone;endFill=0;" edge="1" parent="1" source="xTrYYN68RDAiUMq0tByx-81" target="xTrYYN68RDAiUMq0tByx-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xTrYYN68RDAiUMq0tByx-81" value="BOOKAUTHOR" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
@@ -2447,7 +2447,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xTrYYN68RDAiUMq0tByx-91" value="PUBLISHER" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="2200" width="180" height="220" as="geometry">
+          <mxGeometry x="1270" y="2240" width="180" height="220" as="geometry">
             <mxRectangle x="-160" y="-360" width="110" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2654,13 +2654,13 @@
             <mxRectangle width="170" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xTrYYN68RDAiUMq0tByx-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xTrYYN68RDAiUMq0tByx-138">
+        <mxCell id="xTrYYN68RDAiUMq0tByx-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=ERmany;startFill=0;endArrow=ERone;endFill=0;" edge="1" parent="1" source="xTrYYN68RDAiUMq0tByx-151">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="680" y="2510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xTrYYN68RDAiUMq0tByx-138" value="ORDER" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="2480" width="180" height="210" as="geometry">
+          <mxGeometry x="1060" y="2280" width="180" height="210" as="geometry">
             <mxRectangle x="560" y="-320" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2742,11 +2742,11 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xTrYYN68RDAiUMq0tByx-213" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERone;startFill=0;endArrow=ERone;endFill=0;" edge="1" parent="1" source="xTrYYN68RDAiUMq0tByx-157" target="xTrYYN68RDAiUMq0tByx-151">
+        <mxCell id="xTrYYN68RDAiUMq0tByx-213" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERone;startFill=0;endArrow=ERone;endFill=0;" edge="1" parent="1" source="xTrYYN68RDAiUMq0tByx-157" target="xTrYYN68RDAiUMq0tByx-154">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xTrYYN68RDAiUMq0tByx-157" value="ORDERDETAIL" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="2510" width="180" height="90" as="geometry">
+          <mxGeometry x="1320" y="2560" width="180" height="90" as="geometry">
             <mxRectangle x="740" y="-320" width="120" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -3122,6 +3122,9 @@
         </mxCell>
         <mxCell id="AzWjzS5Kfhm1PxIRrptg-113" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;When normalizing the tables and converting them up to 3NF, the troubles I ran into were breaking down the tables, entities, and attributes. Once I figure out how to summarize the tables, it made it a little easier for me to put them into atomic data. When in 2NF, customer number is a primary key which tells me that whatever information is already in that table is what information I do not need. I added the city, state and area code to make the data atomic. Order Number is also a primary key and takes me to the table Order. I supplied the normalized data in that table. The shipping number is a primary key which takes me to the shipping table, I only added address, city, state and area code to keep the data atomic. The order detail table includes the primary key customer number and the foreign keys order number and shipping number because with those three entities combined, you know the details of the order.&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="4220" width="1490" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="Ej3gJ5XFDvPWyxejLRL6-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.543;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=ERmandOne;startFill=0;endArrow=ERmandOne;endFill=0;" edge="1" parent="1" source="xTrYYN68RDAiUMq0tByx-138" target="xTrYYN68RDAiUMq0tByx-42">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
